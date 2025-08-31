@@ -39,3 +39,4 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 streamlit run app.py
+# Human_Eye_Disease_Prediction_with_react
